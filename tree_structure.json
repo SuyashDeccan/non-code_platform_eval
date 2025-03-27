@@ -1,0 +1,181 @@
+{
+    "workspace": "/home/suyash-sethia/Desktop/Deccan_AI/non-code_platform_eval/giftastic-experience",
+    "tree_structure": {
+        ".": {
+            ".git": {
+                "HEAD": null,
+                "branches": {},
+                "config": null,
+                "description": null,
+                "hooks": {
+                    "applypatch-msg.sample": null,
+                    "commit-msg.sample": null,
+                    "fsmonitor-watchman.sample": null,
+                    "post-update.sample": null,
+                    "pre-applypatch.sample": null,
+                    "pre-commit.sample": null,
+                    "pre-merge-commit.sample": null,
+                    "pre-push.sample": null,
+                    "pre-rebase.sample": null,
+                    "pre-receive.sample": null,
+                    "prepare-commit-msg.sample": null,
+                    "push-to-checkout.sample": null,
+                    "sendemail-validate.sample": null,
+                    "update.sample": null
+                },
+                "index": null,
+                "info": {
+                    "exclude": null
+                },
+                "logs": {
+                    "HEAD": null,
+                    "refs": {
+                        "heads": {
+                            "main": null
+                        },
+                        "remotes": {
+                            "origin": {
+                                "HEAD": null
+                            }
+                        }
+                    }
+                },
+                "objects": {
+                    "info": {},
+                    "pack": {
+                        "pack-d28df8a63ceb26e27bfe63990a069d8346f162d1.idx": null,
+                        "pack-d28df8a63ceb26e27bfe63990a069d8346f162d1.pack": null,
+                        "pack-d28df8a63ceb26e27bfe63990a069d8346f162d1.rev": null
+                    }
+                },
+                "packed-refs": null,
+                "refs": {
+                    "heads": {
+                        "main": null
+                    },
+                    "remotes": {
+                        "origin": {
+                            "HEAD": null
+                        }
+                    },
+                    "tags": {}
+                }
+            },
+            ".gitignore": null,
+            "README.md": null,
+            "bun.lockb": null,
+            "components.json": null,
+            "eslint.config.js": null,
+            "index.html": null,
+            "package-lock.json": null,
+            "package.json": null,
+            "postcss.config.js": null,
+            "public": {
+                "favicon.ico": null,
+                "og-image.png": null,
+                "placeholder.svg": null
+            },
+            "src": {
+                "App.css": null,
+                "App.tsx": null,
+                "components": {
+                    "auth": {
+                        "AuthModal.tsx": null
+                    },
+                    "cart": {
+                        "CartItem.tsx": null,
+                        "CartSidebar.tsx": null
+                    },
+                    "layout": {
+                        "Footer.tsx": null,
+                        "Navbar.tsx": null
+                    },
+                    "products": {
+                        "ProductCard.tsx": null,
+                        "ProductFilter.tsx": null,
+                        "ProductGrid.tsx": null
+                    },
+                    "ui": {
+                        "accordion.tsx": null,
+                        "alert-dialog.tsx": null,
+                        "alert.tsx": null,
+                        "aspect-ratio.tsx": null,
+                        "avatar.tsx": null,
+                        "badge.tsx": null,
+                        "breadcrumb.tsx": null,
+                        "button.tsx": null,
+                        "calendar.tsx": null,
+                        "card.tsx": null,
+                        "carousel.tsx": null,
+                        "chart.tsx": null,
+                        "checkbox.tsx": null,
+                        "collapsible.tsx": null,
+                        "command.tsx": null,
+                        "context-menu.tsx": null,
+                        "dialog.tsx": null,
+                        "drawer.tsx": null,
+                        "dropdown-menu.tsx": null,
+                        "form.tsx": null,
+                        "hover-card.tsx": null,
+                        "input-otp.tsx": null,
+                        "input.tsx": null,
+                        "label.tsx": null,
+                        "menubar.tsx": null,
+                        "navigation-menu.tsx": null,
+                        "pagination.tsx": null,
+                        "popover.tsx": null,
+                        "progress.tsx": null,
+                        "radio-group.tsx": null,
+                        "resizable.tsx": null,
+                        "scroll-area.tsx": null,
+                        "select.tsx": null,
+                        "separator.tsx": null,
+                        "sheet.tsx": null,
+                        "sidebar.tsx": null,
+                        "skeleton.tsx": null,
+                        "slider.tsx": null,
+                        "sonner.tsx": null,
+                        "switch.tsx": null,
+                        "table.tsx": null,
+                        "tabs.tsx": null,
+                        "textarea.tsx": null,
+                        "toast.tsx": null,
+                        "toaster.tsx": null,
+                        "toggle-group.tsx": null,
+                        "toggle.tsx": null,
+                        "tooltip.tsx": null,
+                        "use-toast.ts": null
+                    }
+                },
+                "contexts": {
+                    "AuthContext.tsx": null,
+                    "CartContext.tsx": null,
+                    "WishlistContext.tsx": null
+                },
+                "hooks": {
+                    "use-mobile.tsx": null,
+                    "use-toast.ts": null
+                },
+                "index.css": null,
+                "lib": {
+                    "data.ts": null,
+                    "utils.ts": null
+                },
+                "main.tsx": null,
+                "pages": {
+                    "Cart.tsx": null,
+                    "Index.tsx": null,
+                    "NotFound.tsx": null,
+                    "ProductDetail.tsx": null,
+                    "Wishlist.tsx": null
+                },
+                "vite-env.d.ts": null
+            },
+            "tailwind.config.ts": null,
+            "tsconfig.app.json": null,
+            "tsconfig.json": null,
+            "tsconfig.node.json": null,
+            "vite.config.ts": null
+        }
+    }
+}

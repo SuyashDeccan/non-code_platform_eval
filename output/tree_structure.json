@@ -1,0 +1,120 @@
+{
+    "workspace": "/home/suyash-sethia/Desktop/Deccan_AI/non-code_platform_eval/giftastic-experience",
+    "tree_structure": {
+        ".": {
+            "README.md": null,
+            "package-lock.json": null,
+            "tsconfig.app.json": null,
+            "tsconfig.json": null,
+            "components.json": null,
+            "bun.lockb": null,
+            "vite.config.ts": null,
+            "tailwind.config.ts": null,
+            "tsconfig.node.json": null,
+            "index.html": null,
+            "eslint.config.js": null,
+            "package.json": null,
+            "postcss.config.js": null
+        },
+        "public": {
+            "placeholder.svg": null,
+            "og-image.png": null,
+            "favicon.ico": null
+        },
+        "src": {
+            "index.css": null,
+            "App.tsx": null,
+            "main.tsx": null,
+            "vite-env.d.ts": null,
+            "App.css": null
+        },
+        "src/contexts": {
+            "CartContext.tsx": null,
+            "AuthContext.tsx": null,
+            "WishlistContext.tsx": null
+        },
+        "src/lib": {
+            "utils.ts": null,
+            "data.ts": null
+        },
+        "src/components": {},
+        "src/components/auth": {
+            "AuthModal.tsx": null
+        },
+        "src/components/cart": {
+            "CartItem.tsx": null,
+            "CartSidebar.tsx": null
+        },
+        "src/components/layout": {
+            "Navbar.tsx": null,
+            "Footer.tsx": null
+        },
+        "src/components/products": {
+            "ProductCard.tsx": null,
+            "ProductGrid.tsx": null,
+            "ProductFilter.tsx": null
+        },
+        "src/components/ui": {
+            "form.tsx": null,
+            "alert.tsx": null,
+            "chart.tsx": null,
+            "command.tsx": null,
+            "dialog.tsx": null,
+            "accordion.tsx": null,
+            "context-menu.tsx": null,
+            "input.tsx": null,
+            "tooltip.tsx": null,
+            "collapsible.tsx": null,
+            "drawer.tsx": null,
+            "progress.tsx": null,
+            "toggle-group.tsx": null,
+            "input-otp.tsx": null,
+            "checkbox.tsx": null,
+            "button.tsx": null,
+            "toaster.tsx": null,
+            "dropdown-menu.tsx": null,
+            "hover-card.tsx": null,
+            "toggle.tsx": null,
+            "alert-dialog.tsx": null,
+            "sonner.tsx": null,
+            "tabs.tsx": null,
+            "use-toast.ts": null,
+            "table.tsx": null,
+            "skeleton.tsx": null,
+            "badge.tsx": null,
+            "radio-group.tsx": null,
+            "select.tsx": null,
+            "pagination.tsx": null,
+            "label.tsx": null,
+            "sidebar.tsx": null,
+            "resizable.tsx": null,
+            "breadcrumb.tsx": null,
+            "sheet.tsx": null,
+            "menubar.tsx": null,
+            "carousel.tsx": null,
+            "navigation-menu.tsx": null,
+            "scroll-area.tsx": null,
+            "slider.tsx": null,
+            "separator.tsx": null,
+            "card.tsx": null,
+            "popover.tsx": null,
+            "calendar.tsx": null,
+            "avatar.tsx": null,
+            "aspect-ratio.tsx": null,
+            "switch.tsx": null,
+            "toast.tsx": null,
+            "textarea.tsx": null
+        },
+        "src/hooks": {
+            "use-toast.ts": null,
+            "use-mobile.tsx": null
+        },
+        "src/pages": {
+            "NotFound.tsx": null,
+            "Wishlist.tsx": null,
+            "ProductDetail.tsx": null,
+            "Index.tsx": null,
+            "Cart.tsx": null
+        }
+    }
+}
